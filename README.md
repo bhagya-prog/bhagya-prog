@@ -1,4 +1,4 @@
-
+![logo](https://github.com/bhagya-prog/bhagya-prog/blob/main/Linked%20IN%20banner.png)
 <div align="center">
   <img height="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTQ1aTBkcTY5YmpwZzJma2ZicGRiMmh1NG5mcG1mdXZibjE1emhnZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u2pmTWUi0MXjyrMaVj/giphy.gif"  />
 </div>
