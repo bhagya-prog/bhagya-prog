@@ -1,62 +1,70 @@
-![logo](https://github.com/bhagya-prog/bhagya-prog/blob/main/Linked%20IN%20banner%20(1).png)
-<div align="center">
-  <img height="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTQ1aTBkcTY5YmpwZzJma2ZicGRiMmh1NG5mcG1mdXZibjE1emhnZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u2pmTWUi0MXjyrMaVj/giphy.gif"  />
-</div>
+<h1 align="center">Hey there! 👋 I'm Bhagya Vardhan</h1>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%92%BB;Nature+Lover+%F0%9F%8C%BF;Code.+Create.+Contribute." alt="Typing SVG" />
+</p>
 
-<div align="center">
-  <a href = "https://www.linkedin.com/in/bhagya-vardhan-67815b218"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  /></a>
-  <a href = "https://youtube.com/@bhagyavardhan13?feature=shared"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="youtube logo"  /></a>
-  <a href = "https://www.instagram.com/sharma_bhagya13?igsh=MTF2ZmxhNnYwZmh2bw=="><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  /></a>
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF">
+</p>
 
-###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=bhagya-prog.bhagya-prog&"  />
-</div>
+## 🧠 About Me
 
-###
+- 🎓 Engineering student & self-driven coder  
+- 💻 I love building clean and impactful web apps  
+- 🎨 Designing UI that feels ✨ as good as it looks  
+- ⚡ Fun fact: I debug in dreams 🧠💡
 
-<h1 align="center">hey there 👋</h1>
 
-###
+## 🚀 Tech Stack
 
-<h3 align="left">👩‍💻  About Me</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,cpp,c,python,vscode,github" />
+</p>
 
-###
 
-<p align="left">I am Bhagya Vardhan from India <br>- I am a first-year undergraduate student at THAPAR INSTITUTE OF ENGINEERING. <br>- I am currently learning WEB DEVELOPMENT. <br>- I am a party of the tech society named BACKSLASH COMPUTING SOCIETY.</p>
+## 📊 GitHub Stats
 
-###
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bhagya-prog&show_icons=true&theme=tokyonight&hide_border=false" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhagya-prog&theme=tokyonight&hide_border=false" width="49%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhagya-prog&layout=compact&theme=tokyonight&hide_border=false" width="50%" />
+</p>
 
-<h3 align="left">🛠 Language and tools</h3>
 
-###
+## 🎯 Goals for 2025
+- 🧩 Build a full-stack app with AI integration
+- 🌐 Launch my personal portfolio site
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
+## 🛠️ Tools I Use
 
-###
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Replit](https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white)
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=bhagya-prog&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
 
-###
+## ✨ Featured Projects
 
-<h3 align="left">"CODING CAN BE LOVE FOR JUST A FEW PEOPLE AND I AM ONE OF THEM"</h3>
+| Project | Description | Link |
+|--------|-------------|------|
+| 🧠 **Tic-Tac-Toe Game** | A clean & responsive game built with HTML, CSS, JS | [GitHub Repo](https://github.com/bhagya-prog/Tic-Tac-Toe) |
+| 📦 **Inventory Management System** | CRUD-based inventory dashboard using Python | [GitHub Repo](https://github.com/bhagya-prog/Inventory-Management) |
 
-###
+
+
+## 🤝 Let’s Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/bhagya-vardhan-67815b218" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:bhagyavardhan13@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/sharma_bhagya13?igsh=MTF2ZmxhNnYwZmh2bw==" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
+
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
