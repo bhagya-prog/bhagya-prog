@@ -70,6 +70,8 @@
   <img src="profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Calendar" />
 </p>
 
+[![Holopin Badges](https://holopin.me/bhagyaprog)](https://holopin.io/@bhagyaprog)
 <p align="center">
+
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
