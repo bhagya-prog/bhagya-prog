@@ -67,7 +67,7 @@
 ## 📅 3D Contribution Calendar
 
 <p align="center">
-  <img src="/workspaces/bhagya-prog/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Calendar" />
+  <img src="profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Calendar" />
 </p>
 
 <p align="center">
