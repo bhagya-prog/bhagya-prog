@@ -64,6 +64,11 @@
   <a href="https://www.instagram.com/sharma_bhagya13?igsh=MTF2ZmxhNnYwZmh2bw==" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
+## 📅 3D Contribution Calendar
+
+<p align="center">
+  <img src="/workspaces/bhagya-prog/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Calendar" />
+</p>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
